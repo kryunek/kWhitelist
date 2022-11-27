@@ -1,0 +1,5 @@
+no-whitelisted: "&cYou are not whitelisted."
+kick-enabled: true # if you enable the whitelist, online players who aren't on it will be kicked.
+whitelist-enabled: true
+whitelist-players:
+- kryunek

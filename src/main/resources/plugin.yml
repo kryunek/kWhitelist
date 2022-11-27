@@ -1,0 +1,6 @@
+name: kWhiteList
+version: '${project.version}'
+main: com.kryunek.kwhitelist.kWhiteList
+api-version: 1.19
+authors: [ kryunek ]
+description: A simple whitelist plugin
