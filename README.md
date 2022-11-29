@@ -1,4 +1,4 @@
-# kWhitelist
+## ```❓ What is kWhitelist?```
 kWhitelist is a simple whitelist plugin that i made bc i was bored.
 
 ## Permissions
